@@ -1,4 +1,10 @@
-# Dictionary App
+<h1 align="center">Dictionary App</h1>
+<p align="center">
+   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</p>
+
+## About The Project
 
 A dictionary application where user can search for words and get the word meaning, word pronunciation, audio pronunciation and usage example.
 
